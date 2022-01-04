@@ -1,4 +1,5 @@
-- 👋 BLIZZY
-- 👀 I’m interested in videogames, music, fashion and virtual architecture.
-- 🌱 web dev -> game dev
-- 📫 Reach me @JohnBla1r on instagram or e-mail me at BL1ZZY@TIMECAPSULENY.IO
+- 👋 BLIZZY;
+- 👑 CEO of Cyclone Studios & Time Capsule NY LLC;
+- 👀 music, fashion and virtual architecture;
+- 🌱 web dev -> game dev;
+- 📫 Reach me @JohnBla1r on instagram or e-mail me at BL1ZZY@TIMECAPSULENY.IO;
