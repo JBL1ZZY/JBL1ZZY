@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JBL1ZZY
-- 👀 I’m interested in videogames, music & fashion
-- 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on my own company website, app, and eventual videogame development.
-- 📫 Reach me @JohnBlairOfficial on instagram or Johnblairofficial@gmail.com
+- 👋 BLIZZY
+- 👀 I’m interested in videogames, music, fashion and virtual architecture.
+- 🌱 web dev -> game dev
+- 📫 Reach me @JohnBla1r on instagram or e-mail me at BL1ZZY@TIMECAPSULENY.IO
