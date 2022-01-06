@@ -1,4 +1,4 @@
-- 👋 BLIZZY;
+- ☁️ theWonderKid;
 - 👑 CEO of Cyclone Studios & Time Capsule NY LLC;
 - 👀 music, fashion and virtual architecture;
 - 🌱 web dev -> game dev;
