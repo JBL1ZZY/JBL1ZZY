@@ -2,4 +2,4 @@
 - 👑 CEO of Cyclone Studios & Time Capsule NY LLC;
 - 👀 music, fashion, gaming and virtual architecture;
 - 🌱 web dev -> game dev;
-- 📫 Reach me @JohnBla1r on instagram or e-mail me at BL1ZZY@TIMECAPSULENY.IO;
+- 📫 Reach me @JohnKeysCloud on instagram or e-mail me at JOHNCLOUD@CYCLONESTUD.IO;
